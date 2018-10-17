@@ -1,4 +1,4 @@
-#### [ejected-rn-issue] resolving react-native run-android compilation issue when created from ejected create-react-native-app
+#### resolving react-native run-android compilation issue when created from ejected create-react-native-app
 1. add google() in buildscript and allproject repositories like this:
 ```Gradle
   // Top-level build file where you can add configuration options common to all sub-projects/modules.
@@ -63,4 +63,4 @@ About build types
 By default, there are two build types available for every Android app: one for debugging your app—the debug build—and one for releasing your app to users—the release build. The resulting output from each build must be signed with a certificate before you can deploy your app to a device. The debug build is automatically signed with a debug key provided by the SDK tools (it's insecure and you cannot publish with it to the Google Play Store), and the release build must be signed with your own private key.
 
 If you want to build your app for release, it's important that you first read Sign your app. That page describes the procedure for generating a private key and then using it to sign your app. If you're just getting started, however, you can quickly run your apps on an emulator or a connected device by building a debug APK.
-[resolving react-native run-android compilation issue when created from ejected create-react-native-app](#ejected-rn-issue)
+[resolving react-native run-android compilation issue when created from ejected create-react-native-app](#resolving react-native run-android compilation issue when created from ejected create-react-native-app)
