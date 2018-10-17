@@ -2,6 +2,7 @@
 1. [resolving react-native run-android compilation issue when created from ejected create-react-native-app](#resolving-react-native-run-android-compilation-issue-when-created-from-ejected-create-react-native-app)
 
 #### resolving react-native run-android compilation issue when created from ejected create-react-native-app
+*This worked on OS X w/ AS 3.2.1 on 10/16/18*
 1. add google() in buildscript and allproject repositories like this:
 ```Gradle
   // Top-level build file where you can add configuration options common to all sub-projects/modules.
