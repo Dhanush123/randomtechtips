@@ -1,4 +1,3 @@
-[create an anchor](#ejected-rn-issue)
 #### [Ejected RN Issue] resolving react-native run-android compilation issue when created from ejected create-react-native-app
 1. add google() in buildscript and allproject repositories like this:
 ```Gradle
@@ -33,3 +32,29 @@ allprojects {
 3. can delete node_modules folder and npm install to be safe, but probably isn't necessary
 3. rebuild Android project (in Android Studio or w/ Gradle CLI)
 4. NOW do react-native run-android
+.
+.
+.
+.
+.
+.
+.
+.
+..
+...
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+
+.
+.
+.
+.
+[create an anchor](#ejected-rn-issue)
