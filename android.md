@@ -1,4 +1,5 @@
-### resolving react-native run-android compilation issue when created from ejected create-react-native-app**
+[create an anchor](#ejected-rn-issue)
+#### [Ejected RN Issue] resolving react-native run-android compilation issue when created from ejected create-react-native-app
 1. add google() in buildscript and allproject repositories like this:
 ```Gradle
   // Top-level build file where you can add configuration options common to all sub-projects/modules.
