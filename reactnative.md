@@ -1,7 +1,7 @@
 # Table of Contents
 1. [build and run android shortcut command](#build-and-run-android-shortcut-command)
 2. [remote js debugging](#remote-js-debugging)
-3. [advanced debugging](#advanced-debugging
+3. [advanced debugging](#advanced-debugging)
 4. [additional debug resources](#additional-debug-resources)
 
 #### build and run android shortcut command
