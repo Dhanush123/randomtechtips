@@ -3,6 +3,7 @@
 2. [remote js debugging](#remote-js-debugging)
 3. [advanced debugging](#advanced-debugging)
 4. [additional debug resources](#additional-debug-resources)
+5. [linking libraries](#linking-libraries)
 
 #### build and run android shortcut command
 *This worked on OS X Terminal/Bash on 10/17/18. Prereqs: might need to [install Gradle](https://docs.gradle.org/current/userguide/installation.html)*
@@ -24,3 +25,7 @@
 
 #### additional debug resources
 * [official FB RN docs](https://facebook.github.io/react-native/docs/debugging)
+
+#### linking libraries
+*Assuming you've installed [react-native cli](https://github.com/facebook/react-native#readme)*
+* some libraries, like [React Native Vector Icon](https://github.com/oblador/react-native-vector-icons), require linking due to their interaction with native code, and so run ```react-native link``` to auto link all libraries that require linking
