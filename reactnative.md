@@ -1,14 +1,14 @@
 # Table of Contents
-1. [build and run android shortcut command](#build-and-run-android-shortcut-command)
+1. [build and run android shortcut commands](#build-and-run-android-shortcut-commands)
 2. [remote js debugging](#remote-js-debugging)
 3. [advanced debugging](#advanced-debugging)
 4. [additional debug resources](#additional-debug-resources)
 5. [linking libraries](#linking-libraries)
 
-#### build and run android shortcut command
+#### build and run android commands
 *This worked on OS X Terminal/Bash on 10/17/18. Prereqs: might need to [install Gradle](https://docs.gradle.org/current/userguide/installation.html)*
 1. Make sure you're in root directory of React Native project
-2. run ```cd android && ./gradlew && cd .. && react-native run-android```
+2. run ```npm run android``` or ```cd android && ./gradlew && cd .. && react-native run-android```
 
 #### remote js debugging
 *similar steps to put brakepoints in code in CDTs*
