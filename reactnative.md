@@ -1,6 +1,6 @@
 # Table of Contents
 1. [build and run android shortcut command](#build-and-run-android-shortcut-command)
-2. [remote js debugging](#remote-js-debugging)
+2. [remote JS debugging](#remote-js-debugging)
 3. [advanced debugging](#advanced-debugging)
 
 #### build and run android shortcut command
@@ -15,7 +15,7 @@
  * go to "Console" for console.log statements
  * go to "Source" for seeing files and putting breakpoints in code
 
-### advanced debugging
+#### advanced debugging
 *Assuming have downloaded [React Native Debugger](https://github.com/jhen0409/react-native-debugger) and enabled ["Remote JS Debugging"](#remote-js-debugging)*
 * Use RND to inspect and modify elements, see console.log statements, and see files/"Source", looks similar to CDTs
 * has Redux inspection capabilities, similar to Redux debugger Chrome Extension
