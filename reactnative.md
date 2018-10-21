@@ -1,5 +1,6 @@
 # Table of Contents
 1. [build and run android shortcut command](#build-and-run-android-shortcut-command)
+2. [using console.log statements](#using-console.log-statements)
 
 #### build and run android shortcut command
 *This worked on OS X Terminal/Bash on 10/17/18. Prereqs: might need to [install Gradle](https://docs.gradle.org/current/userguide/installation.html)*
