@@ -14,6 +14,7 @@
 2. in browser tab that's automatically opened from 1. go to console, ex: open [Developer Tools in Chrome](https://developers.google.com/web/tools/chrome-devtools/#get-started) (right click and "inspect page" or alt-cmd/ctrl-I) and go to "Console"
 
 ### advanced debugging
-*Assuming have downloaded [React Native Debugger](https://github.com/jhen0409/react-native-debugger)*
-* Use RND to inspect and modify elements as well as see console.log statements, looks similar to CDTs
+*Assuming have downloaded [React Native Debugger](https://github.com/jhen0409/react-native-debugger) and enabled ["Remote JS Debugging](#using-consolelog-statements)*
+* Use RND to inspect and modify elements, see console.log statements, and see files/"Source", looks similar to CDTs
+* has Redux inspection capabilities, similar to Redux debugger Chrome Extension
 * can't use this at the same time as the "Remote JS Debugging" feature
