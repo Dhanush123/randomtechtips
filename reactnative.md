@@ -8,5 +8,6 @@
 2. run ```cd android && ./gradlew && cd .. && react-native run-android```
 
 #### using console.log statements
+*similar steps to put brakepoints in code in CDTs*
 1. enable "Remote JS Debugging" in RN app, i.e. shake physical (Android) device to select option
 2. in browser tab that's automatically opened from 1. go to console, ex: open [Developer Tools in Chrome](https://developers.google.com/web/tools/chrome-devtools/#get-started) (right click and "inspect page" or alt-cmd/ctrl-I) and go to "Console"
